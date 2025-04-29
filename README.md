@@ -261,4 +261,4 @@ Proyek ini berhasil menghadirkan sistem rekomendasi musik hybrid: TF‑IDF Cosi
 
 [4] [X. Su and T. M. Khoshgoftaar, “A survey of collaborative filtering techniques”, Advances in Artificial Intelligence, vol. 2009, Article ID 421425, 2009.](https://onlinelibrary.wiley.com/doi/10.1155/2009/421425)
 
- [T. Chai and R. R. Draxler, “Root mean square error (RMSE) or mean absolute error (MAE)? – Arguments against avoiding RMSE”, Geosci. Model Dev., vol. 7, no. 3, pp. 1247–1250, 2014.](https://gmd.copernicus.org/articles/7/1247/2014/)
+[5] [T. Chai and R. R. Draxler, “Root mean square error (RMSE) or mean absolute error (MAE)? – Arguments against avoiding RMSE”, Geosci. Model Dev., vol. 7, no. 3, pp. 1247–1250, 2014.](https://gmd.copernicus.org/articles/7/1247/2014/)
